@@ -2,7 +2,6 @@
   "name": "manageevent",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://bvenkata.github.io/manageevent",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "gapi-script": "^1.2.0",
